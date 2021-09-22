@@ -7,7 +7,6 @@ pipeline{
        nodejs 'nodejs'
     }
    
-
     stages{
         stage(‘build-the-app‘){
             steps{
